@@ -11,11 +11,21 @@ ___
 ## 💻 Compatibilité 💻
 
 
-### ** Mac** : iTerm2 ✅, VSC ✅, Hyper ✅, Terminal System ❌
-
-### **🐧 Linux** : VSC ✅, Terminal System ✅
-
-### **🪟 Windows** : VSC 🟨, cmd ❌, Powershell ❌, Windows Terminal ❌, Hyper ❌
+ ** Mac** :
+ - iTerm2 ✅
+ - VSC ✅
+ - Hyper ✅ 
+ - Terminal System 🟧 Presque inutilisable trop de couleurs qui ne s'affichent pas.
+\
+ **🐧 Linux** : VSC ✅
+ Terminal System ✅
+\
+**Windows :**
+ VSC 🟨 Utilisable avec affichage de toutes les couleurs mais les changements de couleurs sont très lents.
+ cmd ❌
+ Powershell ❌
+ Windows Terminal ❌
+ Hyper ❌
 \
  Si vous trouvez d'autres terminaux qui sont compatibles faites le nous savoir
 ___
