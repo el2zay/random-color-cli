@@ -22,7 +22,7 @@ ___
 - VSC ✅
 - Terminal System ✅
 
- ### **Windows :**
+ ### **🪟 Windows** :
 - IntelliJ ✅ Changement de couleurs un petit peu plus lent que sur les autres systèmes.
 - VSC 🟨 Utilisable mais problème de lenteur
 - Hyper 🟨 Utilisable mais problème de lenteur
