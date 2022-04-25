@@ -20,8 +20,8 @@ ___
  Si vous trouvez d'autres terminaux qui sont compatibles faites le nous savoir
 ___
 ## 📦 Comment installer et lancer Random Color CLI
-Requis : pip et python3 \
-- Installez le requirements.txt à l'aide de la commande `pip install -r requirements.txt`. Attention vérifiez que vous aide dans le dossier où se trouve le main.py et le requirements.txt
+Requis : pip et python3 
+- Installez le requirements.txt à l'aide de la commande `pip install -r requirements.txt`. Attention vérifiez que vous êtes dans le dossier où se trouve le main.py et le requirements.txt
 - Lancez le script à l'aide la commande `python3 main.py` sur macOS et Linux. Ou la commande `python main.py` si vous êtes sur Windows.
 - Si vous êtes sur macOS vous devez faire 3 choses en plus qui sont très simple.
 
