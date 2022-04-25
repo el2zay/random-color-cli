@@ -15,18 +15,20 @@ ___
  - iTerm2 ✅
  - VSC ✅
  - Hyper ✅ 
- - Terminal System 🟧 Presque inutilisable trop de couleurs qui ne s'affichent pas.
+ - Terminal System 🟧 Presque inutilisable trop de couleurs qui ne s'affichent pas. 
 
  ### **🐧 Linux** :
 - VSC ✅
 - Terminal System ✅
 
  ### **Windows :**
-- VSC 🟨 Utilisable avec affichage de toutes les couleurs mais les changements de couleurs sont très lents.
+- IntelliJ ✅ Changement de couleurs un petit peu plus lent que sur les autres systèmes.
+- VSC 🟨 Utilisable mais problème de lenteur
+- Hyper 🟨 Utilisable mais problème de lenteur
 - cmd ❌
 - Powershell ❌
 - Windows Terminal ❌
-- Hyper ❌
+
 \
  Si vous trouvez d'autres terminaux qui sont compatibles faites le nous savoir
 ___
