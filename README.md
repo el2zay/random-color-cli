@@ -66,6 +66,7 @@ ___
 - Inquirer et Pynput non fonctionnel sur quasi tous les terminaux Windows
 
 > Si vous avez trouvé un autre bug faites le moi savoir via les Issues.
+> Des fois impossible de quitter le RGB to HEX.
 
 ___
 ## 🔜 Prochainement 🔜
