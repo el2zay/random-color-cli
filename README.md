@@ -45,7 +45,7 @@ Allez dans Menu Pomme > Préférences Système
 
 Allez dans "Sécurité et Confidentialité"
 ![dz nuizdnxeiz,d](https://user-images.githubusercontent.com/79168733/165068097-f66dae94-4371-4f5a-9c17-583a7d898670.png)
-\
+
 Puis dans Confidentialité
 \
 ![image](https://user-images.githubusercontent.com/79168733/165068536-a136266d-e20c-4c79-a13a-08a5f608e7a3.png)
@@ -62,7 +62,7 @@ Une fois le cadena déverouiller cochez le terminal que vous utilisez pour le CL
 Si votre Terminal ne s'affiche pas cliquez sur le + puis cherchez votre terminal.
 \
 Une fois effectuer vous pouvez relancer le script à l'aide de la commande `python3 main.py`
-\
+
 > Si vous n'avez pas réussi à lancer le script ouvrez une issue et expliquez votre problème.
 ___
 ## 🐞 Bugs Reportés 🐞
