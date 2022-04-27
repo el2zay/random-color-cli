@@ -38,7 +38,8 @@ ___
 Requis : pip et python3 
 - Installez le requirements.txt à l'aide de la commande `pip install -r requirements.txt`. Attention vérifiez que vous êtes dans le dossier où se trouve le main.py et le requirements.txt
 - Lancez le script à l'aide la commande `python3 main.py` sur macOS et Linux. Ou la commande `python main.py` si vous êtes sur Windows.
-- Si vous êtes sur macOS vous devez faire 3 choses en plus qui sont très simple.
+\
+> Si vous êtes sur macOS testez le code. Si vous n'arrivez pas à changer de couleur à l'aide de la touche espace vous devez faire 3 choses en plus qui sont très simple.
 
 Allez dans Menu Pomme > Préférences Système
 
@@ -61,6 +62,8 @@ Une fois le cadena déverouiller cochez le terminal que vous utilisez pour le CL
 Si votre Terminal ne s'affiche pas cliquez sur le + puis cherchez votre terminal.
 \
 Une fois effectuer vous pouvez relancer le script à l'aide de la commande `python3 main.py`
+\
+> Si vous n'avez pas réussi à lancer le script ouvrez une issue et expliquez votre problème.
 ___
 ## 🐞 Bugs Reportés 🐞
 - Inquirer et Pynput non fonctionnel sur quasi tous les terminaux Windows
