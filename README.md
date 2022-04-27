@@ -72,6 +72,7 @@ ___
 ## 🔜 Prochainement 🔜
 - Compatibilité Windows et Terminal System pour macOS
 - Full English support
+- Installable depuis pip/brew/apt
 ___
 ## 👨‍💻 Auteurs et collaborateurs 👩‍💻 
 [el2zay](https://github.com/el2zay) Créateur - Développeur Principal \
