@@ -32,7 +32,7 @@ ___
 - Windows Terminal ❌
 
 \
- Si vous trouvez d'autres terminaux qui sont compatibles faites le nous savoir
+ Si vous trouvez d'autres terminaux qui sont compatibles\incompatible faites le nous savoir
 ___
 ## 📦 Comment installer et lancer Random Color CLI
 Requis : pip et python3 
