@@ -35,6 +35,14 @@ ___
  Si vous trouvez d'autres terminaux qui sont compatibles\incompatibles faites le nous savoir
 ___
 ## 📦 Comment installer et lancer Random Color CLI
+\
+**Avec Homebrew**
+`brew tap el2zay/randomcolor`
+`brew install randomcolor`
+ AVERTISSEMENT : > Prend beaucoup de temps à se lancer. Si vous êtes sur mac et que vous n'avez pas activer la serveillance de l'entrée descendez un peu pour savoir comment l'activer.
+
+\
+**Avec python3**
 Requis : pip et python3 
 - Installez le requirements.txt à l'aide de la commande `pip install -r requirements.txt`. Attention vérifiez que vous êtes dans le dossier où se trouve le main.py et le requirements.txt
 - Lancez le script à l'aide la commande `python3 main.py` sur macOS et Linux. Ou la commande `python main.py` si vous êtes sur Windows.
