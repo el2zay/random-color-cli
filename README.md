@@ -36,10 +36,10 @@ ___
 ___
 ## 📦 Comment installer et lancer Random Color CLI
 \
-**Avec Homebrew**
-`brew tap el2zay/randomcolor`
-`brew install randomcolor`
- AVERTISSEMENT : > Prend beaucoup de temps à se lancer. Si vous êtes sur mac et que vous n'avez pas activer la serveillance de l'entrée descendez un peu pour savoir comment l'activer.
+**Avec Homebrew**\
+`brew tap el2zay/randomcolor` \
+`brew install randomcolor`\
+ AVERTISSEMENT : **Prend beaucoup de temps à se lancer. Si vous êtes sur mac et que vous n'avez pas activer la serveillance de l'entrée descendez un peu pour savoir comment l'activer.**
 
 \
 **Avec python3**
