@@ -84,6 +84,7 @@ ___
 ___
 ## 🔜 Prochainement 🔜
 - Compatibilité Windows et Terminal System pour macOS
+- Plus rapide et optimisé
 - Full English support
 - Installable depuis pip/brew/apt
 ___
