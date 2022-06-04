@@ -91,5 +91,4 @@ ___
 - Installable depuis pip/brew/apt
 ___
 ## 👨‍💻 Auteurs et collaborateurs 👩‍💻 
-[el2zay](https://github.com/el2zay) Créateur - Développeur Principal \
-[johan](https://github.com/johan-perso) Collaborateur 
+[el2zay](https://github.com/el2zay) Créateur - Seul développeur actif
