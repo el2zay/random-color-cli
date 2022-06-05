@@ -86,6 +86,7 @@ ___
 ___
 ## 🔜 Prochainement 🔜
 - Compatibilité Windows et Terminal System pour macOS
+- Plus besoin de changer les paramètres d'entrée de clavier macOS.
 - Plus rapide et optimisé
 - Full English support
 - Installable depuis pip/brew/apt
