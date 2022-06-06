@@ -77,7 +77,6 @@ Une fois effectuer vous pouvez relancer le script à l'aide de la commande `pyth
 ___
 ## 🐞 Bugs Reportés 🐞
 - Inquirer et Pynput non fonctionnel sur quasi tous les terminaux Windows
-
 > Si vous avez trouvé un autre bug faites le moi savoir via les Issues.
 > Des fois impossible de quitter le RGB to HEX.
 
@@ -87,7 +86,7 @@ ___
 - Plus besoin de changer les paramètres d'entrée de clavier macOS.
 - Plus rapide et optimisé
 - Full English support
-- Installable depuis pip/brew/apt
+- Installable depuis pip/apt
 ___
 ## 👨‍💻 Auteurs et collaborateurs 👩‍💻 
 [el2zay](https://github.com/el2zay) Créateur - Seul développeur actif
