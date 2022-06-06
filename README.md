@@ -2,8 +2,6 @@
 
  **LE SCRIPT EST ENTRAIN D'ÊTRE RECODER EN DART POUR UNE PLUS LARGE COMPATIBILITÉ, UNE EXECUTION RAPIDE ET MOINS DE BUG.**
  
- --Date de sortie prévue : Ce weekend--
-
 ## 🔍 Aperçu 🔍
 
 
